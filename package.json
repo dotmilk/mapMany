@@ -1,8 +1,8 @@
 {
     "name": "mapmany",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "maps one to many instead of one to one",
-    "repository" : "dotmilk/mapMany",
+    "repository": "dotmilk/mapMany",
     "main": "index.js",
     "scripts": {
         "test": "./node_modules/.bin/mocha"
